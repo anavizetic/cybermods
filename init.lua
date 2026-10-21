@@ -15,7 +15,7 @@ local statusMsg = ""
 local statusEnd = 0
 
 -- The five attributes and their gamedataStatType enum names
-local ATTRS = { "Body", "Reflexes", "TechnicalAbility", "Intelligence", "Cool" }
+local ATTRS = { "Strength", "Reflexes", "TechnicalAbility", "Intelligence", "Cool" }
 local MIN_ATTR = 3  -- lowest possible attribute value in 2.0
 
 ---------------------------------------------------------------------------
